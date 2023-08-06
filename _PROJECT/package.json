@@ -1,0 +1,21 @@
+{
+  "name": "LP",
+  "version": "1.0.0",
+  "homepage": "",
+  "description": "gutewetter.ru",
+  "moduleType": "globals",
+  "author": "Sharamoff",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-cache": "^1.1.3",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^5.1.0",
+    "rimraf": "^5.0.1",
+    "sass": "^1.63.6"
+  }
+}
