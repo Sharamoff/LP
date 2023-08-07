@@ -233,7 +233,7 @@ picture img {
 .btn--small svg {
   width: 16px;
   height: 16px;
-  margin-right: 10px;
+  margin-right: 5px;
   position: relative;
   top: -3px;
 }
@@ -919,6 +919,9 @@ picture img {
     text-align: center;
     padding: inherit 0;
   }
+}
+.footer__right .note {
+  margin-top: 10px;
 }
 .footer-logo {
   display: inline-block;

@@ -196,7 +196,7 @@ picture {
     svg {
       width: 16px;
       height: 16px;
-      margin-right: 10px;
+      margin-right: 5px;
       position: relative;
       top: -3px;
     }
@@ -956,6 +956,10 @@ picture {
     @media (max-width: 767px) {
       text-align: center;
       padding: inherit 0;
+    }
+
+    .note {
+      margin-top: 10px;
     }
 
   }
