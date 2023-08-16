@@ -3,3 +3,4 @@ oldproject/
 _PROJECT/node_modules/
 _PROJECT/.idea/
 package-lock.json
+.DS_Store
